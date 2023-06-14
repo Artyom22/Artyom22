@@ -18,6 +18,13 @@
   <img src="https://komarev.com/ghpvc/?username=Artyom22&style=for-the-badge&color=blue" alt="artyom amiryan profile views"/>
 </div>
 
+<div id="chess-stats" align="center">
+  <!--START_SECTION:chessStats-->
+
+  <!--END_SECTION:chessStats-->
+</div>
+
+
 
 <!--
 **Artyom22/Artyom22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
