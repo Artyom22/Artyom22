@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/artyom-amiryan22/">
+  <a href="https://www.linkedin.com/in/artyom-amiryan22/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:artyomamiryan2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/10430329/artyom-amiryan?tab=profile">
+  <a href="https://stackoverflow.com/users/10430329/artyom-amiryan?tab=profile" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=orange" alt="StackOverflow Badge"/>
   </a>
 </div>
