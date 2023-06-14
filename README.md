@@ -20,7 +20,8 @@
 </div>
 
 
-## :man_technologist: About Me :
+---
+
 - :telescope: As a Software Engineer, I expertly engage in both front-end and back-end aspects of web application development.
 
 - :briefcase: Specialized in developing web applications, ERP systems, eCommerce products, fintech applications, SaaS, and mobile games.
@@ -31,13 +32,11 @@
 
 - :coin: Actively HODLing and exploring Crypto, with a keen interest in Web3.
 
-- :zap: Enjoy engaging in hobbies like chess, board games, snowboarding, weightlifting, football, MMA, anime, manga, and videogames.
+- :zap: Enjoy engaging in hobbies like chess, board games, snowboarding, weightlifting, football, MMA, anime, manga, and video games.
 
 - :mailbox: How to reach me: <a href="mailto:artyomamiryan2@gmail.com">:envelope_with_arrow:</a>
 
 ---
-
-### :fire: My Stats :
 
 <div id="profile-stats" align="center">
   <div id="profile-views" align="center">
@@ -45,14 +44,18 @@
     <img src="https://profile-counter.glitch.me/Artyom22/count.svg" />
   </div>
   
-  \
+ 
   <img align="center" src="https://github-readme-stats-rho-blush-32.vercel.app/api?username=Artyom22&theme=tokyonight&show_icons=true&hide_border=true" />
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Artyom22&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
- 
   <img align="center" src="https://github-readme-stats-rho-blush-32.vercel.app/api/top-langs/?username=Artyom22&size_weight=0.5&count_weight=0.5&hide_progress=true&langs_count=10&theme=tokyonight&hide_border=true" />
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Artyom22&theme=tokyonight&hide_border=true&border_radius=5" />
+
+ 
   
 </div>
+
+---
 
 ### Languages
 
